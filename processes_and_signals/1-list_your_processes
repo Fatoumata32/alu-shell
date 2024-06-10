@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# script that displays a list of currently running processes.
+
+echo "List of currently running processes (all users, including those without a TTY):"
+echo "--------------------------------------------------------------------------"
